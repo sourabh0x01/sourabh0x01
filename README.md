@@ -2,7 +2,7 @@
 <p align="center">
 <p align="center">
 <a href="https://linkedin.com/in/sourabh-choudhary-0a6323200" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sourabh0x01" height="30" width="30" /></a>&nbsp;
-<a href="https://medium.com/@sourabh0x01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="sourabh0x01" height="30" width="30" /></a>
+<a href="https://medium.com/@sourabhtech99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="sourabh0x01" height="30" width="30" /></a>
 </p>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
@@ -42,11 +42,11 @@
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Sine Wave Generation Using Lookup Tables – For Inverters/UPS](https://medium.com/@sourabh0x01)
-- [Coming Soon...](https://medium.com/@sourabh0x01)
+- [Sine Wave Generation Using Lookup Tables – For Inverters/UPS](https://medium.com/@sourabhtech99)
+- [Coming Soon...](https://medium.com/@sourabhtech99)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [... view more](https://medium.com/@sourabh0x01)
+▶ [... view more](https://medium.com/@sourabhtech99)
 
 ---
 

@@ -36,14 +36,11 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ██████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 49.33% as on ⏰ 30-Jun-2025
-
 ---
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Sine Wave Generation Using Lookup Tables – For Inverters/UPS](https://medium.com/@sourabhtech99)
-- [Coming Soon...](https://medium.com/@sourabhtech99)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [... view more](https://medium.com/@sourabhtech99)

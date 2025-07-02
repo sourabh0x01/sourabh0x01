@@ -40,7 +40,7 @@
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Sine Wave Generation Using Lookup Tables – For Inverters/UPS](https://medium.com/@sourabhtech99)
+- [Sine Wave Generation Using Lookup Tables – For Inverters/UPS](https://medium.com/@sourabhtech99/generating-sine-waves-using-a-lookup-table-27ac0e69a3cf)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [... view more](https://medium.com/@sourabhtech99)
